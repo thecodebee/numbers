@@ -1,0 +1,21 @@
+{
+  "name": "NumberTales",
+  "version": "1.0.0",
+  "description": "Fun facts on numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "fact",
+    "numbers"
+  ],
+  "author": "Bhuvana Rajamani",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6",
+    "request": "^2.81.0"
+  }
+}
